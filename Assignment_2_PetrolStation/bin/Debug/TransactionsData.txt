@@ -1,0 +1,380 @@
+       __________________________________________________________________________________________
+
+2020-12-16 2:03:04 PM
+
+ Fuel price (per liter): Diesel:$1.10   LPG:$0.80    Unleaded:$1.30
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 54
+Number of Vehicles Serviced:: 11
+Number of Vehicles Missed: 30
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 747
+Total LPG dispensed: 191
+Total Fuel dispensed: 938
+
+Total Sales: $974.50
+Commission earned: $9.75
+
+Transactions:
+1    Pump#8 Car -  $41.8  38L Diesel   dispensed
+2    Pump#9 Van -  $48  60L LPG   dispensed
+3    Pump#7 Van -  $54.4  68L LPG   dispensed
+4    Pump#2 Van -  $80.3  73L Diesel   dispensed
+5    Pump#8 Car -  $34.1  31L Diesel   dispensed
+6    Pump#4 HGV -  $127.6  116L Diesel   dispensed
+7    Pump#5 HGV -  $132  120L Diesel   dispensed
+8    Pump#3 HGV -  $130.9  119L Diesel   dispensed
+9    Pump#6 HGV -  $143  130L Diesel   dispensed
+10    Pump#1 HGV -  $132  120L Diesel   dispensed
+11    Pump#7 Van -  $50.4  63L LPG   dispensed
+       __________________________________________________________________________________________
+
+2020-12-16 2:57:36 PM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 0
+Number of Vehicles that Appeared: 2
+Number of Vehicles Serviced:: 0
+Number of Vehicles Missed: 0
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 0
+Total LPG dispensed: 0
+Total Fuel dispensed: 0
+
+Total Sales: $0.00
+Commission earned: $0.00
+
+Transactions:
+       __________________________________________________________________________________________
+
+2020-12-16 2:58:07 PM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 0
+Number of Vehicles that Appeared: 6
+Number of Vehicles Serviced:: 0
+Number of Vehicles Missed: 0
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 0
+Total LPG dispensed: 0
+Total Fuel dispensed: 0
+
+Total Sales: $0.00
+Commission earned: $0.00
+
+Transactions:
+       __________________________________________________________________________________________
+
+2020-12-16 4:01:06 PM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 48
+Number of Vehicles Serviced:: 5
+Number of Vehicles Missed: 33
+
+Total Unleaded dispensed: 31
+Total Diesel dispensed: 261
+Total LPG dispensed: 33
+Total Fuel dispensed: 325
+
+Total Sales: $368.48
+Commission earned: $3.68
+
+Transactions:
+1    Pump#9 Car -  $26.4  33L LPG   dispensed
+2    Pump#6 Car -  $34.1  31L Unleaded   dispensed
+3    Pump#8 Van -  $80.24  68L Diesel   dispensed
+4    Pump#2 Van -  $92.04  78L Diesel   dispensed
+5    Pump#4 HGV -  $135.7  115L Diesel   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 9:17:22 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 0
+Number of Vehicles that Appeared: 3
+Number of Vehicles Serviced:: 0
+Number of Vehicles Missed: 0
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 0
+Total LPG dispensed: 0
+Total Fuel dispensed: 0
+
+Total Sales: $0.00
+Commission earned: $0.00
+
+Transactions:
+       __________________________________________________________________________________________
+
+2020-12-17 9:18:44 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 37
+Number of Vehicles Serviced:: 8
+Number of Vehicles Missed: 16
+
+Total Unleaded dispensed: 70
+Total Diesel dispensed: 212
+Total LPG dispensed: 167
+Total Fuel dispensed: 449
+
+Total Sales: $460.76
+Commission earned: $4.61
+
+Transactions:
+1    Pump#9 Car -  $35.2  32L Unleaded   dispensed
+2    Pump#8 Car -  $32  40L LPG   dispensed
+3    Pump#6 Car -  $41.8  38L Unleaded   dispensed
+4    Pump#7 Van -  $49.6  62L LPG   dispensed
+5    Pump#2 Van -  $73.16  62L Diesel   dispensed
+6    Pump#1 Van -  $52  65L LPG   dispensed
+7    Pump#3 Van -  $86.14  73L Diesel   dispensed
+8    Pump#4 Van -  $90.86  77L Diesel   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 9:20:02 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 17
+Number of Vehicles Serviced:: 3
+Number of Vehicles Missed: 2
+
+Total Unleaded dispensed: 33
+Total Diesel dispensed: 68
+Total LPG dispensed: 0
+Total Fuel dispensed: 101
+
+Total Sales: $116.54
+Commission earned: $1.17
+
+Transactions:
+1    Pump#8 Car -  $36.3  33L Unleaded   dispensed
+2    Pump#7 Car -  $44.84  38L Diesel   dispensed
+3    Pump#4 Car -  $35.4  30L Diesel   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 9:26:00 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 1
+Number of Vehicles that Appeared: 5
+Number of Vehicles Serviced:: 0
+Number of Vehicles Missed: 0
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 0
+Total LPG dispensed: 0
+Total Fuel dispensed: 0
+
+Total Sales: $0.00
+Commission earned: $0.00
+
+Transactions:
+       __________________________________________________________________________________________
+
+2020-12-17 9:56:23 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.80    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 18
+Number of Vehicles Serviced:: 2
+Number of Vehicles Missed: 3
+
+Total Unleaded dispensed: 0
+Total Diesel dispensed: 0
+Total LPG dispensed: 71
+Total Fuel dispensed: 71
+
+Total Sales: $56.80
+Commission earned: $0.57
+
+Transactions:
+1    Pump#7 Car -  $28  35L LPG   dispensed
+2    Pump#5 Car -  $28.8  36L LPG   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 10:05:12 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.70    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 63
+Number of Vehicles Serviced:: 15
+Number of Vehicles Missed: 38
+
+Total Unleaded dispensed: 104
+Total Diesel dispensed: 480
+Total LPG dispensed: 310
+Total Fuel dispensed: 894
+
+Total Sales: $897.80
+Commission earned: $8.98
+
+Transactions:
+1    Pump#8 Car -  $22.4  32L LPG   dispensed
+2    Pump#6 Car -  $39.6  36L Unleaded   dispensed
+3    Pump#3 Car -  $23.8  34L LPG   dispensed
+4    Pump#9 Van -  $75.52  64L Diesel   dispensed
+5    Pump#7 Van -  $53.9  77L LPG   dispensed
+6    Pump#1 Van -  $44.8  64L LPG   dispensed
+7    Pump#4 Van -  $88.5  75L Diesel   dispensed
+8    Pump#1 Car -  $37.76  32L Diesel   dispensed
+9    Pump#7 Car -  $25.9  37L LPG   dispensed
+10    Pump#4 Car -  $34.1  31L Unleaded   dispensed
+11    Pump#2 HGV -  $134.52  114L Diesel   dispensed
+12    Pump#5 HGV -  $151.04  128L Diesel   dispensed
+13    Pump#9 Van -  $79.06  67L Diesel   dispensed
+14    Pump#8 Van -  $46.2  66L LPG   dispensed
+15    Pump#7 Car -  $40.7  37L Unleaded   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 10:10:09 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.70    Unleaded:$1.10
+
+Vehicle in the Queue: 4
+Number of Vehicles that Appeared: 33
+Number of Vehicles Serviced:: 5
+Number of Vehicles Missed: 17
+
+Total Unleaded dispensed: 37
+Total Diesel dispensed: 125
+Total LPG dispensed: 104
+Total Fuel dispensed: 266
+
+Total Sales: $261.00
+Commission earned: $2.61
+
+Transactions:
+1    Pump#8 Car -  $40.7  37L Unleaded   dispensed
+2    Pump#6 Car -  $26.6  38L LPG   dispensed
+3    Pump#4 Van -  $71.98  61L Diesel   dispensed
+4    Pump#2 Van -  $46.2  66L LPG   dispensed
+5    Pump#1 Van -  $75.52  64L Diesel   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 10:18:58 AM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.70    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 132
+Number of Vehicles Serviced:: 29
+Number of Vehicles Missed: 91
+
+Total Unleaded dispensed: 233
+Total Diesel dispensed: 1283
+Total LPG dispensed: 252
+Total Fuel dispensed: 1768
+
+Total Sales: $1946.64
+Commission earned: $19.47
+
+Transactions:
+1    Pump#7 Car -  $34.1  31L Unleaded   dispensed
+2    Pump#6 Car -  $35.4  30L Diesel   dispensed
+3    Pump#3 Car -  $35.2  32L Unleaded   dispensed
+4    Pump#8 Van -  $77.88  66L Diesel   dispensed
+5    Pump#9 Van -  $82.6  70L Diesel   dispensed
+6    Pump#7 Car -  $38.5  35L Unleaded   dispensed
+7    Pump#4 Van -  $77.88  66L Diesel   dispensed
+8    Pump#5 Van -  $94.4  80L Diesel   dispensed
+9    Pump#2 Van -  $89.68  76L Diesel   dispensed
+10    Pump#8 Car -  $36.58  31L Diesel   dispensed
+11    Pump#9 Car -  $39.6  36L Unleaded   dispensed
+12    Pump#7 Car -  $38.5  35L Unleaded   dispensed
+13    Pump#8 Car -  $33  30L Unleaded   dispensed
+14    Pump#1 HGV -  $174.64  148L Diesel   dispensed
+15    Pump#9 Van -  $76.7  65L Diesel   dispensed
+16    Pump#4 HGV -  $141.6  120L Diesel   dispensed
+17    Pump#2 Van -  $45.5  65L LPG   dispensed
+18    Pump#6 Car -  $43.66  37L Diesel   dispensed
+19    Pump#5 Car -  $37.4  34L Unleaded   dispensed
+20    Pump#7 HGV -  $149.86  127L Diesel   dispensed
+21    Pump#4 Van -  $83.78  71L Diesel   dispensed
+22    Pump#3 HGV -  $135.7  115L Diesel   dispensed
+23    Pump#9 Car -  $23.8  34L LPG   dispensed
+24    Pump#7 Car -  $27.3  39L LPG   dispensed
+25    Pump#1 HGV -  $172.28  146L Diesel   dispensed
+26    Pump#4 Car -  $25.9  37L LPG   dispensed
+27    Pump#7 Car -  $41.3  35L Diesel   dispensed
+28    Pump#4 Car -  $25.9  37L LPG   dispensed
+29    Pump#2 Car -  $28  40L LPG   dispensed
+       __________________________________________________________________________________________
+
+2020-12-17 2:51:43 PM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.70    Unleaded:$1.10
+
+Vehicle in the Queue: 5
+Number of Vehicles that Appeared: 87
+Number of Vehicles Serviced:: 19
+Number of Vehicles Missed: 55
+
+Total Unleaded dispensed: 75
+Total Diesel dispensed: 693
+Total LPG dispensed: 496
+Total Fuel dispensed: 1264
+
+Total Sales: $1247.44
+Commission earned: $12.47
+
+Transactions:
+1    Pump#9 Car -  $23.8  34L LPG   dispensed
+2    Pump#8 Car -  $25.9  37L LPG   dispensed
+3    Pump#6 Car -  $25.2  36L LPG   dispensed
+4    Pump#3 Car -  $39.6  36L Unleaded   dispensed
+5    Pump#2 Car -  $27.3  39L LPG   dispensed
+6    Pump#4 Van -  $92.04  78L Diesel   dispensed
+7    Pump#1 Van -  $52.5  75L LPG   dispensed
+8    Pump#7 HGV -  $145.14  123L Diesel   dispensed
+9    Pump#5 HGV -  $146.32  124L Diesel   dispensed
+10    Pump#3 Car -  $42.9  39L Unleaded   dispensed
+11    Pump#7 Car -  $23.1  33L LPG   dispensed
+12    Pump#1 Van -  $80.24  68L Diesel   dispensed
+13    Pump#8 Van -  $46.9  67L LPG   dispensed
+14    Pump#9 Van -  $50.4  72L LPG   dispensed
+15    Pump#7 Car -  $25.2  36L LPG   dispensed
+16    Pump#4 HGV -  $156.94  133L Diesel   dispensed
+17    Pump#2 HGV -  $151.04  128L Diesel   dispensed
+18    Pump#1 Van -  $46.9  67L LPG   dispensed
+19    Pump#8 Car -  $46.02  39L Diesel   dispensed
+       __________________________________________________________________________________________
+
+1/12/2023 2:51:46 PM
+
+ Fuel price (per liter): Diesel:$1.18   LPG:$0.70    Unleaded:$1.10
+
+Vehicle in the Queue: 1
+Number of Vehicles that Appeared: 18
+Number of Vehicles Serviced:: 3
+Number of Vehicles Missed: 1
+
+Total Unleaded dispensed: 75
+Total Diesel dispensed: 36
+Total LPG dispensed: 0
+Total Fuel dispensed: 111
+
+Total Sales: $124.98
+Commission earned: $1.25
+
+Transactions:
+1    Pump#8 Car -  $42.48  36L Diesel   dispensed
+2    Pump#6 Car -  $38.5  35L Unleaded   dispensed
+3    Pump#7 Car -  $44  40L Unleaded   dispensed
